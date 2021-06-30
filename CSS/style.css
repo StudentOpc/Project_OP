@@ -653,9 +653,10 @@ footer
 
 div.Fbox
 {
-    margin-left:14%;
-    margin-right:7%;
+    margin-left: 2%;
+    margin-right: 15%;
 }
+
 @media screen and (max-width:1600px)
 {
     .Bgimg
@@ -988,8 +989,9 @@ div.Fbox
 
     div.Fbox
     {
-        margin-left: 3%;
-        margin-right: 8%;
+    margin-left: 2%;
+    margin-right: 15%;
+    margin-bottom: 8%;
     }
 
     footer
@@ -1001,7 +1003,7 @@ div.Fbox
         margin-right: 0%;
     }
 }
-
+/* Tailles d'écran entre 768px et 1024px */
 @media screen and (min-width:768px) and (max-width:1024px)
 {
     div.All
